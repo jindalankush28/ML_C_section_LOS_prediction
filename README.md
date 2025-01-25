@@ -3,6 +3,7 @@
 ## Project Overview
 This project aims to develop machine learning models to predict the length of stay (LOS) for post-cesarean hospitalizations using the Healthcare Cost and Utilization Project (HCUP) dataset. The study compares multiple machine learning approaches and evaluates the impact of different features, including demographic, clinical, and social determinants of health, on prediction accuracy.
 
+Full project report can be found here: `ML_C_section.pdf`
 ---
 
 ## Objectives
